@@ -1,7 +1,7 @@
 # 创业公司生存指南
  或来自保罗·格雷厄姆的「创业13条军规」
 
-![startUpSurvive.png]
+![原图](startUpSurvive.png)
 
 1. 找到合适的合伙人
 2. 尽快开始
