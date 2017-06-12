@@ -12,4 +12,5 @@
 * [创业者的进化史](StartUp-Episode/enter.md)
 * [比尔盖茨创业史](StartUp-Episode/billGates.md)
 * [乔布斯创业史](StartUp-Episode/steveJobs.md)
+* [马斯克创业史](StartUp-Episode/elonMask.md)
 * [商业计划](StartUp-Episode/writeBP.md)
