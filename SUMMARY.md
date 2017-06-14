@@ -14,3 +14,4 @@
 * [乔布斯创业史](StartUp-Episode/steveJobs.md)
 * [马斯克创业史](StartUp-Episode/elonMask.md)
 * [商业计划](StartUp-Episode/writeBP.md)
+* [商业字典](StartUp-Episode/founderDic.md)
