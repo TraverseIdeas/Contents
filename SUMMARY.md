@@ -15,3 +15,16 @@
 * [马斯克创业史](StartUp-Episode/elonMask.md)
 * [商业计划](StartUp-Episode/writeBP.md)
 * [商业字典](StartUp-Episode/founderDic.md)
+
+## 大数据专辑
+
+* [大数据的力量](BigData-Episode/PowerofBigData.md)
+
+## 职场专辑
+
+* [优秀员工鉴定指南](StartUp-Episode/worksed.md)
+
+## 设计专辑
+
+* [设计的六大原则](Design-Episode/principles.md)
+

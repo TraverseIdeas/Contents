@@ -2,7 +2,7 @@
 
 苹果创始人的生涯
 
-![原图](steveJobs.jpg)
+![原](steveJobs.jpg)
 
 #### 1955：出生并被领养
 
@@ -51,7 +51,7 @@
 - 创造 Apple Lisa 电脑
 - 参观了了施乐的用户图形界面(GUI)，认定这是未来的方向
 - 邀请 Bill Gates 一起为 Mac 创建用户图形界面
-- 在 Macintosh 商业宣传片「1984」上花费100万美元
+- 在 Macintosh 商业宣传片「1984」上花费100万美刀
 - 前往苏联销售更多 Mac
 - 被自己请来的CEO Sculley 解雇
 - 创立 NeXT 电脑公司

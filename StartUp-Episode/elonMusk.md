@@ -1,6 +1,6 @@
 # 埃隆·马斯克的创业史
 
-![](elonMask.png)
+![](elonMusk.png)
 
 #### 1971年：出生
 
