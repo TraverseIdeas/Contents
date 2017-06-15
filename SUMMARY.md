@@ -13,8 +13,10 @@
 * [比尔盖茨创业史](StartUp-Episode/billGates.md)
 * [乔布斯创业史](StartUp-Episode/steveJobs.md)
 * [马斯克创业史](StartUp-Episode/elonMask.md)
-* [商业计划](StartUp-Episode/writeBP.md)
-* [商业字典](StartUp-Episode/founderDic.md)
+* [扎克伯格创业史](StartUp-Episode/zuker.md)
+* [你得写商业计划](StartUp-Episode/writeBP.md)
+* [另类创始人字典](StartUp-Episode/founderDic.md)
+* [创建伟大品牌](StartUp-Episode/founderDic.md)
 
 ## 大数据专辑
 
