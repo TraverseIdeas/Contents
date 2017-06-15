@@ -1,3 +1,3 @@
 # Intro
 
-搜集一些有趣的东西
+Let's do something nerdy.
