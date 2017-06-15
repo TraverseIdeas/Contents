@@ -1,3 +1,3 @@
 # Intro
 
-设计之美
+The beauty of design is uncountable.

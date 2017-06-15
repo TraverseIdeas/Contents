@@ -22,7 +22,7 @@
 
 ## 职场专辑
 
-* [优秀员工鉴定指南](StartUp-Episode/worksed.md)
+* [优秀员工鉴定指南](Work-Episode/worksed.md)
 
 ## 设计专辑
 
