@@ -6,6 +6,7 @@
 
 * [Introduction](StartUp-Episode/readme.md)
 * [如何开始一家创业公司](StartUp-Episode/How2startup.md)
+* [10大法则](StartUp-Episode/10rules.md)
 * [创业公司失败的20个主因](StartUp-Episode/whyStartUpfailed.md)
 * [20个商业大佬的人生经验](StartUp-Episode/bussinessAdvices.md)
 * [创业公司生存指南](StartUp-Episode/startUpSurvive.md)
@@ -17,16 +18,20 @@
 * [你得写商业计划](StartUp-Episode/writeBP.md)
 * [另类创始人字典](StartUp-Episode/founderDic.md)
 * [创建伟大品牌](StartUp-Episode/founderDic.md)
+* [成为自由职业者](StartUp-Episode/freelancer.md)
 
 ## 大数据专辑
 
+* [Introduction](BigData-Episode/readme.md)
 * [大数据的力量](BigData-Episode/PowerofBigData.md)
 
 ## 职场专辑
 
+* [Introduction](Work-Episode/readme.md)
 * [优秀员工鉴定指南](Work-Episode/worksed.md)
 
 ## 设计专辑
 
+* [Introduction](Design-Episode/readme.md)
 * [设计的六大原则](Design-Episode/principles.md)
 
