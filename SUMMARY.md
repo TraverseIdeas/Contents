@@ -2,7 +2,7 @@
 
 * [Introduction](readme.md)
 
-## 创业专辑
+## StartUp
 
 * [Introduction](StartUp-Episode/readme.md)
 * [如何开始一家创业公司](StartUp-Episode/How2startup.md)
@@ -20,18 +20,21 @@
 * [创建伟大品牌](StartUp-Episode/founderDic.md)
 * [成为自由职业者](StartUp-Episode/freelancer.md)
 
-## 大数据专辑
+## Enlignten
 
-* [Introduction](BigData-Episode/readme.md)
-* [大数据的力量](BigData-Episode/PowerofBigData.md)
+* [Introduction](Enlighten-Episode/readme.md)
+* [设计的六大原则](Enlighten-Episode/principles.md)
 
-## 职场专辑
 
-* [Introduction](Work-Episode/readme.md)
-* [优秀员工鉴定指南](Work-Episode/worksed.md)
+## Tech 
 
-## 设计专辑
+* [Introduction](Tech-Episode/readme.md)
+* [大数据的力量](Tech-Episode/PowerofBigData.md)
 
-* [Introduction](Design-Episode/readme.md)
-* [设计的六大原则](Design-Episode/principles.md)
+## Culture
+
+## Methods
+
+* [Introduction](Methods-Episode/readme.md)
+* [优秀员工鉴定指南](Methods-Episode/worksed.md)
 
