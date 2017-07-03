@@ -1,10 +1,9 @@
 # 20个成功企业家的最佳建议
 
-![原图](bussinessAdvicesCN.png)
+![汉化](bussinessAdvicesCN.png)
 
-## 原图
+> 原文地址：http://www.businessinsider.com/20-entrepreneurs-share-the-advice-that-made-them-successful-2015-11
 
-![原图](bussinessAdvices.png)
 
 
 #### 比尔·盖茨 (Bill Gates)
