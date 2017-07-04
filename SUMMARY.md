@@ -33,6 +33,7 @@
 * [开发炼狱的七重轮回](Tech-Episode/7circles.md)
 * [大数据的趋势](Tech-Episode/bigDataTrends.md)
 * [中国的伟大科技](ChinaTech.md)
+* [软件开发](softDev.md)
 
 
 ## Culture
@@ -41,4 +42,5 @@
 
 * [Introduction](Methods-Episode/readme.md)
 * [优秀员工鉴定指南](Methods-Episode/worksed.md)
+* [提前下班](Methods-Episode/leaveEarly.md)
 
