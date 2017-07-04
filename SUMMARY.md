@@ -30,6 +30,10 @@
 
 * [Introduction](Tech-Episode/readme.md)
 * [大数据的力量](Tech-Episode/PowerofBigData.md)
+* [开发炼狱的七重轮回](Tech-Episode/7circles.md)
+* [大数据的趋势](Tech-Episode/bigDataTrends.md)
+* [中国的伟大科技](ChinaTech.md)
+
 
 ## Culture
 
