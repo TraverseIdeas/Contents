@@ -39,6 +39,7 @@
 * [物联网崛起](Tech-Episode/IOTrise.md)
 * [大数据梦之队](Tech-Episode/DreamTeam.md)
 * [小生意，大数据](Tech-Episode/smallBizz.md)
+* [物联网：前世今生](Tech-Episode/IOThistory.md)
 
 
 ## Culture
