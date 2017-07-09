@@ -23,7 +23,9 @@
 ## Enlignten
 
 * [Introduction](Enlighten-Episode/readme.md)
-* [设计的六大原则](Enlighten-Episode/principles.md)
+* [设计六原则](Enlighten-Episode/principles.md)
+* [设计流程八法](Enlighten-Episode/8designProcess.md)
+* [设计20法则](Enlighten-Episode/20principles.md)
 
 
 ## Tech 
@@ -32,8 +34,11 @@
 * [大数据的力量](Tech-Episode/PowerofBigData.md)
 * [开发炼狱的七重轮回](Tech-Episode/7circles.md)
 * [大数据的趋势](Tech-Episode/bigDataTrends.md)
-* [中国的伟大科技](ChinaTech.md)
-* [软件开发](softDev.md)
+* [中国的伟大科技](Tech-Episode/ChinaTech.md)
+* [软件开发](Tech-Episode/softDev.md)
+* [物联网崛起](Tech-Episode/IOTrise.md)
+* [大数据梦之队](Tech-Episode/DreamTeam.md)
+* [小生意，大数据](Tech-Episode/smallBizz.md)
 
 
 ## Culture
@@ -42,5 +47,5 @@
 
 * [Introduction](Methods-Episode/readme.md)
 * [优秀员工鉴定指南](Methods-Episode/worksed.md)
-* [提前下班](Methods-Episode/leaveEarly.md)
+* [如何提前下班](Methods-Episode/leaveEarly.md)
 
