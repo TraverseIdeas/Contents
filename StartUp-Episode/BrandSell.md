@@ -91,21 +91,3 @@
 
 说出未经夸大和编造的关于你是谁的事实，对你的顾客而言，引人入胜且令人振奋
 
-## 原文
-
-Here are some important highlights to remember from this infographic.
-
-1) Set Your Business Apart From the Rest By Creating a Story.
-In running a business, there are many things that go good for it, as well as many things can go in the opposite direction. To run a business, owners will need to have the utmost patience, resilience, and perseverance, as the running of businesses is by far one of the most difficult things they will ever sustain in their lives. With businesses come a great amount of responsibility, a level that is matched by few other properties.
-
-While their is not a singular tip for running a business, as each business will need to be ran in its own way, there are some general rules that apply to all businesses. A good method to follow in running one’s business is creating a story arc, a tale that customers can follow that is produced from the business. By creating a story for the customer, a business is keeping them intrigued, as well as willfully engaged.
-
-2) Use a Character.
-Chances are, your business is going to be no different than the other businesses around. While you may offer reduced prices, weekly specials, or other commodities for the customer, you are no different than the several other businesses that are also in the market. If you are wanting to set your business apart, you will need to create a “story arc” which will showcase your company (main character), through its progression.
-
-There are numerous mascots for companies that exist in commercials today, the Geico gecko and Flo from Progressive are some examples, as is the “Most Interesting Man in The World” and Jack from Jack In The Box. If you are wanting to create a story for your business, however, you should look to be more personal with your customers. This is done by creating a character that they can respect, as well as relate to.
-
-3) Make it Suspenseful.
-The story should be pieced together in a way where their is suspense after each airing, so that the customer is left wondering what the character or symbol will face next. Whether this be a conflict or obstacle is dependent on your business, but it should keep the customer engrossed into the story. It is very important that you show them how it is related to them, so that they do not feel just like any other customer.
-
-Show them how they can succeed in their own lives, by using your product or service. Don’t just talk about your strength and reliability as a business to the customer, make sure you show them what you mean. This goes a long way for the customer when they are choosing one of several like products on the market. This gives them incentive of choosing your business over the countless other businesses that also exist.
