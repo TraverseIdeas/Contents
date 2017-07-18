@@ -41,6 +41,7 @@
 * [小生意，大数据](Tech-Episode/smallBizz.md)
 * [物联网：前世今生](Tech-Episode/IOThistory.md)
 * [大数据超级英雄](Tech-Episode/bdSuper.md)
+* [智慧城市](Tech-Episode/SmartCity.md)
 
 
 ## Culture
