@@ -44,6 +44,8 @@
 * [物联网：挑战](Tech-Episode/IOTchallenge.md)
 * [智慧城市](Tech-Episode/SmartCity.md)
 * [物联网简介](Tech-Episode/IOTintro.md)
+* [加密货币](Tech-Episode/Crypto.md)
+* [将来之物](Tech-Episode/futureTime.md)
 
 
 ## Culture
