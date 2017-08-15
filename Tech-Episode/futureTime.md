@@ -36,7 +36,7 @@
 
 ### 2028年，自旋电子学革命
 
-「自旋电子」\(电子自旋技术）的快速商业化，为智能手机，智能技术和物联网带来革命性变化。
+「自旋电子」(电子自旋技术）的快速商业化，为智能手机，智能技术和物联网带来革命性变化。
 
 ### 2029年，碳呼吸电池
 
@@ -168,37 +168,3 @@
 | Rectenna | 硅整流二极管天线 |
 | Schizophrenic | 精神分裂症的 |
 | Space-based | 基于太空的，天基的 |
-
-
-
-<<<<<<< HEAD
-word|词
----|---
-Aerosol|气溶胶，喷雾剂
-Anaerobic|厌氧的
-Antivirals|抗病毒
-Autism|自闭症
-Biocompatible|生物无排异的
-Biometirc|仿生学的
-Calcite|方解石
-Deuterium|氘
-Electrochemical|电化学的
-Geopolitics|地缘政治学
-Germ Line|生殖系，种系
-Genetronics|基因算子
-Macrolides|大环内酯
-Nanoporous|纳米多孔
-Neocortex|新皮质，新大脑皮层
-Neurology|神经学
-Optogenetics|光电子学
-Osteocrin|骨织素
-Perovskite|钙钛矿
-Photonics|光子学
-Photomotor|光度计
-Quantum Key Distribution|量子密钥分发
-RF,Radio Frequency|射频，电磁辐射频率
-Rectenna|硅整流二极管天线
-Schizophrenic|精神分裂症的
-Space-based|基于太空的，天基的
-=======
->>>>>>> 9f5f535f8158524df9fae4d7ae91b7a698605fb8
