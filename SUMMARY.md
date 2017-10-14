@@ -50,6 +50,9 @@
 
 ## Culture
 
+* [Introduction](Culture-Episode/readme.md)
+* [各国的领导文化](Culture-Episode/leadership.md)
+
 ## Methods
 
 * [Introduction](Methods-Episode/readme.md)
